@@ -14,7 +14,7 @@
 
 ![上传成功](./image/open-cms-upload-resource-success.png)
 
-上传成功后会生成一个存放游戏前端资源的路径链接，例如本案例的 *http://game-cdn.1sapp.com/game-pkg/game-a3Hb1fVbeq2w-1568535262/*，压缩包里面的资源会解压并存放到这个链接下面，需要按照压缩包里面的路径补充访问入口（本案例是：*qtt/src/index.html*）。
+上传成功后会生成一个存放游戏前端资源的路径链接，例如本案例的 [http://game-cdn.1sapp.com/game-pkg/game-a3Hb1fVbeq2w-1568535262/](http://game-cdn.1sapp.com/game-pkg/game-a3Hb1fVbeq2w-1568535262/)，压缩包里面的资源会解压并存放到这个链接下面，需要按照压缩包里面的路径补充访问入口（本案例是：*qtt/src/index.html*）。
 
 ![补充访问路径](./image/open-cms-supple-path.png)
 
