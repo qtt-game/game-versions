@@ -23,4 +23,4 @@
 ![查看灰度链接](./image/open-cms-status-and-link.png)
 
 
-（完）
+（感谢使用）
